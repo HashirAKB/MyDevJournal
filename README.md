@@ -1,4 +1,4 @@
-# #✨ Developer Journal 📓
+# ✨ Developer Journal 📓
 
 ## 🚀 Overview
 Welcome to my Developer Journal! This repository is a magical realm where I document my coding adventures, capturing the essence of challenges, triumphs, and the wizardry behind various projects.
