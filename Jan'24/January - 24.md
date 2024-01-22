@@ -1,4 +1,15 @@
-# 📅 22-01-204, Monday
-## ✨ Yes, Here I'm. Finally started my developer journal.
-### 🔮 In the future, there might be somebody who's looking at this so will start with myself first.
-#### 👋 Hi, I'm Hashir. As of now, I'm a full time software developer working at UST with an overall experience of 2.8 years.
+# 📅 January 24, 2022 - Monday
+## ✨ Welcome! I'm starting my developer journal today.
+
+### 🔮 Looking Ahead
+In the future, someone might stumble upon this journal. So, let's begin with a brief introduction about myself.
+
+#### 👋 Introduction
+Hello! My name is Hashir. I am a full-time software developer currently working at UST with over 2.8 years of experience. After completing my diploma in Computer Engineering, I took some time to explore various technologies such as Machine Learning & Artificial Intelligence, Cloud Computing, and Blockchain. Among these, I found a particular interest in Blockchain and decided to specialize in that area.
+
+I joined the ABCD program by the ICT Academy of Kerala & K-DISC, which is a great initiative for accelerated blockchain competency development. As part of this program, I completed the initial step, a comprehensive full-stack development course in MEAN stack by the ICT Academy of Kerala. Unfortunately, due to some unknown reasons, the upcoming blockchain courses were delayed.
+
+In the meantime, I started preparing for interviews and eventually secured my current role as a software developer at UST.
+
+#### 🚀 Future Plans
+Currently, I am in the process of serving my notice period. During this time, I plan to take a break to upskill myself and secure a better position where I can contribute more significantly and tackle more challenging problems.
