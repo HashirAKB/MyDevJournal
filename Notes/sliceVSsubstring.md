@@ -1,4 +1,4 @@
-Diffrence between str.slice() and str.substring()
+### Diffrence between str.slice() and str.substring()
 
 The `str.slice()` and `str.substring()` methods in JavaScript are both used to extract a portion of a string. However, they behave differently in certain scenarios, especially when dealing with negative indices and the handling of the `end` parameter.
 
