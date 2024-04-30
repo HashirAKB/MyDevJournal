@@ -1,4 +1,3 @@
-```markdown
 # Anagram Functions Comparison
 
 In this study note, we explore two different implementations of a function that checks if two strings are anagrams: the original `isAnagram` function and the optimized `isAnagramOptimized` function.
