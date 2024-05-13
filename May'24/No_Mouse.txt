@@ -1,0 +1,77 @@
+=====================================================================================
+
+How to move the cursor in VS code to the end of current line of the start of next line using keyboard shortcuts?
+In Visual Studio Code, you can move the cursor to the end of the current line or the start of the next line using the following keyboard shortcuts:
+
+1. **Move cursor to end of current line**: Press `End` key.
+
+2. **Move cursor to start of next line**: Press `End` key followed by `Enter` key.
+
+These shortcuts work by default in Visual Studio Code on most keyboards. If your keyboard layout is different or if you've customized your keybindings, the shortcuts may vary.
+
+=====================================================================================
+
+How to select a string or text by placing cursor on it and using keyboard shortcut instead of using mouse double click?
+In Visual Studio Code, you can select a string or text by placing the cursor on it and using keyboard shortcuts. Here's how you can do it:
+
+1. **Select a word**: Place the cursor on the word you want to select, then press `Ctrl` + `D` (Windows/Linux) or `Cmd` + `D` (Mac) to select the word under the cursor. Pressing the same shortcut again will select the next occurrence of the word, and so on.
+
+2. **Select a line**: Place the cursor anywhere within the line you want to select, then press `Ctrl` + `L` (Windows/Linux) or `Cmd` + `L` (Mac) to select the entire line.
+
+3. **Select a block of text**: Place the cursor at the beginning of the block of text you want to select, then press `Shift` + `Alt` + `Down arrow` (Windows/Linux) or `Shift` + `Option` + `Down arrow` (Mac) repeatedly to extend the selection downwards line by line. Similarly, you can use the `Up arrow` key to extend the selection upwards.
+
+These are some of the common keyboard shortcuts for selecting text in Visual Studio Code. You can also customize your keybindings to suit your preferences.
+
+=====================================================================================
+
+I'm in a browser tab. How to go to address bar using keyboard?
+To navigate to the address bar in most web browsers using the keyboard, you can use the following keyboard shortcuts:
+
+1. **Windows/Linux**: Press `Ctrl` + `L`.
+2. **Mac**: Press `Cmd` + `L`.
+
+These shortcuts work in popular web browsers such as Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. They allow you to quickly move the focus to the address bar so you can type a new URL or search term.
+
+=====================================================================================
+
+My VS code is open, and I'm viewing an html file from a project that I opened in vscode. I need to create another html file in the same location where the HTML file that I'm looking at currently resides. How to do this using key board shortcuts without using mouse.?
+To create a new file in the same location where the currently viewed HTML file resides in Visual Studio Code using keyboard shortcuts, you can follow these steps:
+
+1. Make sure the currently viewed HTML file is active in Visual Studio Code.
+
+2. Press `Ctrl` + `N` (Windows/Linux) or `Cmd` + `N` (Mac) to open a new file.
+
+3. Visual Studio Code will open a new untitled file. Press `Ctrl` + `S` (Windows/Linux) or `Cmd` + `S` (Mac) to save the file.
+
+4. In the "Save As" dialog that appears, navigate to the location where the currently viewed HTML file is located. You can use the arrow keys to navigate through folders.
+
+5. Once you've navigated to the correct location, press `Enter` to confirm the save location.
+
+6. In the "File Name" field of the "Save As" dialog, type the desired name for the new HTML file, including the `.html` extension.
+
+7. Press `Enter` to save the new HTML file.
+
+By following these steps, you can create a new HTML file in the same location as the currently viewed HTML file using only keyboard shortcuts in Visual Studio Code.
+
+=====================================================================================
+
+Instead of keep pressing delete button to delete a line, whats the other key to quickly remove the line?
+In Visual Studio Code, you can quickly delete a line without repeatedly pressing the delete button by using the following keyboard shortcut:
+
+- Press `Ctrl` + `Shift` + `K` (Windows/Linux) or `Cmd` + `Shift` + `K` (Mac) to delete the current line.
+
+This shortcut will instantly remove the entire line where the cursor is positioned, saving you the hassle of pressing the delete button multiple times.
+
+=====================================================================================
+
+Instead of using end button and enter button to move to next line in VScode while I'm typing what's the quickest way?
+
+ChatGPT
+The quickest way to move to the next line while typing in Visual Studio Code without using the End or Enter buttons is to use the "Insert Line Below" command. You can do this by pressing the following keyboard shortcut:
+
+Press Ctrl + Enter (Windows/Linux) or Cmd + Enter (Mac) to insert a new line below the current line and move the cursor to the beginning of the newly inserted line.
+This shortcut allows you to continue typing without having to move your hands away from the main typing position on the keyboard. It's a quick and efficient way to add new lines while typing in Visual Studio Code.
+
+=====================================================================================
+
+CTRL + W to close the current browser tab.
